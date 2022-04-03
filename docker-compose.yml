@@ -24,6 +24,7 @@ services:
       DDBB_USER: feiuser
       DDBB_PASSWORD: fei123
       PHP_USER_ID: 1000
+      PRODUCCION: 0
     ports:
       - 8000:80
 
